@@ -69,6 +69,11 @@
       }
     ]
   },
+  "seo": {
+    "metatags": {
+      "google-site-verification": "8B_mjpfI4mcva-EY29z5Dgq3OWJ2G2kEggJYh72DFxs"
+    }
+  },
   "footer": {
     "socials": {
       "github": "https://github.com/SNU-Unloop"
