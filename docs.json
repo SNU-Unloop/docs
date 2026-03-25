@@ -2,13 +2,13 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Unloop",
+  "appearance": "light",
   "colors": {
     "primary": "#00AC65",
     "light": "#EAF4E2",
     "dark": "#2A7A4E",
     "background": {
-      "light": "#FFFFFF",
-      "dark": "#1A1A1A"
+      "light": "#F5F6F4"
     }
   },
   "favicon": "/favicon.svg",
@@ -52,14 +52,13 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.svg"
   },
   "navbar": {
     "links": [
       {
         "label": "문의하기",
-        "href": "mailto:contact@unloop.kr"
+        "href": "mailto:hanfirst@snu.ac.kr"
       }
     ]
   },
