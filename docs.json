@@ -2,16 +2,22 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Unloop",
-  "appearance": "light",
+  "appearance": {
+    "default": "light",
+    "strict": true
+  },
+  "background": {
+    "color": {
+      "light": "#F5F6F4",
+      "dark": "#F5F6F4"
+    }
+  },
   "colors": {
     "primary": "#00AC65",
     "light": "#EAF4E2",
-    "dark": "#2A7A4E",
-    "background": {
-      "light": "#F5F6F4"
-    }
+    "dark": "#2A7A4E"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
@@ -52,13 +58,14 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg"
+    "light": "/logo.svg",
+    "dark": "/logo.svg"
   },
   "navbar": {
     "links": [
       {
         "label": "문의하기",
-        "href": "mailto:hanfirst@snu.ac.kr"
+        "href": "mailto:unloopbyhuve@gmail.com"
       }
     ]
   },
