@@ -8,13 +8,13 @@
   },
   "background": {
     "color": {
-      "light": "#F5F6F4",
-      "dark": "#F5F6F4"
+      "light": "#FAFBFA",
+      "dark": "#FAFBFA"
     }
   },
   "colors": {
     "primary": "#00AC65",
-    "light": "#EAF4E2",
+    "light": "#F0F7EC",
     "dark": "#2A7A4E"
   },
   "favicon": "/favicon.png",
