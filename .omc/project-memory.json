@@ -1,0 +1,59 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1775384173499,
+  "projectRoot": "/Users/kimsihun/workingdir/unloop/docs",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "images": {
+      "path": "images",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1775384173398,
+      "keyFiles": [
+        "character.png"
+      ]
+    },
+    "legal": {
+      "path": "legal",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1775384173398,
+      "keyFiles": [
+        "data-deletion.mdx",
+        "disclaimer.mdx",
+        "privacy.mdx",
+        "terms.mdx"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}

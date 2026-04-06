@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"ssh -i ~/Downloads/unloop-server-key.pem ubuntu@api.imhuve.com \\\"find /home/ubuntu -maxdepth 3 -type d 2>/dev/null; ls /home/ubuntu/ 2>/dev/null\\\"\",\"description\":\"Scan EC2 directory struct...",
+  "error": "Exit code 255\nHost key verification failed.",
+  "timestamp": "2026-04-05T13:03:13.083Z",
+  "retry_count": 1
+}

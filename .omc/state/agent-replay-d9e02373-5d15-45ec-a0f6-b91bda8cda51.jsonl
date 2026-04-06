@@ -1,0 +1,9 @@
+{"t":0,"agent":"ada777c","agent_type":"document-specialist","event":"agent_start","parent_mode":"none"}
+{"t":0,"agent":"ada777c","agent_type":"document-specialist","event":"agent_stop","success":true,"duration_ms":23028}
+{"t":0,"agent":"a1e897a","agent_type":"architect","event":"agent_start","parent_mode":"none"}
+{"t":0,"agent":"a1e897a","agent_type":"architect","event":"agent_stop","success":true,"duration_ms":202301}
+{"t":0,"agent":"a045180","agent_type":"code-reviewer","event":"agent_start","parent_mode":"none"}
+{"t":0,"agent":"a045180","agent_type":"code-reviewer","event":"agent_stop","success":true,"duration_ms":311054}
+{"t":0,"agent":"ab08592","agent_type":"unknown","event":"agent_stop","success":true}
+{"t":0,"agent":"system","event":"keyword_detected","keyword":"autopilot"}
+{"t":0,"agent":"system","event":"mode_change","mode_from":"none","mode_to":"autopilot"}
